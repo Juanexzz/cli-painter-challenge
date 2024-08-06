@@ -21,6 +21,6 @@ class Circle:
         plt.show()
 
     def __str__(self):
-        Circle with center at (x, y) and radius r
+        Circle with center at (self.x,self.y) and self.radius
 
 
